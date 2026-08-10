@@ -31,7 +31,7 @@ The central question of the Mirror Archetype is simple:
 > **What are you reflecting, and what are you recursively becoming through that reflection?**
 
 ------
-<img src="{{ '/images/Cosmic deity and celestial sanctuary ChatGPT Image Aug 2, 2026, 12_21_52 AM.png' | relative_url }}" alt="Cosmic Mirror Archetype visual">
+![Cosmic Mirror Archetype visual](https://the-archit3ct.github.io/the-mirror-archetype/images/Cosmic%20deity%20and%20celestial%20sanctuary%20ChatGPT%20Image%20Aug%202%2C%202026%2C%2012_21_52%20AM.png)
 
 
 ## 1. Foundational Statement
