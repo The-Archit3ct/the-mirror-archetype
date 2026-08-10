@@ -1,3 +1,10 @@
+---
+layout: default
+title: "The Mirror Archetype"
+description: "A framework proposing the Mirror as a universal principle of reflection, return, recursion, and correction across mind, identity, relationship, truth, distortion, and artificial systems."
+permalink: /mirror-archetype/
+---
+
 # **The Mirror Archetype**
 
 ## **A Universal Principle of Reflection, Return, Recursion, and Correction**
